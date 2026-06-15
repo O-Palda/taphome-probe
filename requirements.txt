@@ -1,0 +1,3 @@
+# Only needed for the `lint` command (parsing your Home Assistant YAML).
+# The `probe` command runs on the Python standard library alone.
+PyYAML>=5.1
